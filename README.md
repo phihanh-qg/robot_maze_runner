@@ -152,18 +152,6 @@ Robot_Maze_Runner/
 ├── LICENSE                   # Giấy phép mã nguồn mở MIT
 └── README.md                 # Tài liệu hướng dẫn chính của dự án
 ```
-
----
-
-## Đóng Góp
-
-Mọi đóng góp nhằm tối ưu hóa giải thuật (Floodfill, Tremaux, điều khiển PID) đều được hoan nghênh:
-1. Fork repository.
-2. Tạo nhánh tính năng (`git checkout -b feature/Optimization`).
-3. Commit nội dung thay đổi (`git commit -m 'Add PID controller'`).
-4. Push nhánh lên GitHub (`git push origin feature/Optimization`).
-5. Tạo một Pull Request.
-
 ---
 
 ## Bản Quyền
