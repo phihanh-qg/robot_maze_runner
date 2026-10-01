@@ -1,0 +1,39 @@
+# Prerequisites
+*.d
+*.o
+*.ko
+*.obj
+*.elf
+*.hex
+
+# Build & Compilation artifacts
+build/
+bin/
+out/
+*.bin
+*.eep
+*.lss
+
+# Arduino IDE temporary & cache files
+*.app.hex
+*.app.bin
+*.app.elf
+*~
+*.swp
+*.bak
+
+# VS Code & PlatformIO
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.pio/
+.pioenvs/
+.piolibdeps/
+.clangd/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+desktop.ini
