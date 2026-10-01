@@ -14,6 +14,14 @@
 
 ---
 
+## Hình Ảnh Thực Tế
+
+| Xe Robot Thực Tế | Sa Bàn Mê Cung Thử Nghiệm |
+| :---: | :---: |
+| <img src="docs/images/robot_top_view.jpg" width="420" alt="Robot Maze Runner"> | <img src="docs/images/maze_environment.jpg" width="420" alt="Sa Bàn Mê Cung"> |
+
+---
+
 ## Tính Năng Nổi Bật
 
 - **Thuật toán bám tường tối ưu**: Áp dụng quy tắc bàn tay trái (Left-Hand Rule) ưu tiên rẽ trái khi phát hiện khoảng trống, giúp robot tự tìm đường ra khỏi mê cung khép kín.
